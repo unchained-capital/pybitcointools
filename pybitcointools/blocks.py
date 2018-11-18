@@ -1,4 +1,4 @@
-from bitcoin.main import *
+from pybitcointools.main import *
 
 
 def serialize_header(inp):

@@ -1,4 +1,4 @@
-import bitcoin as bc
+import pybitcointools as bc
 import sys
 import unittest
 

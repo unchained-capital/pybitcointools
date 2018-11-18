@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import binascii, re, json, copy, sys
-from bitcoin.main import *
+from pybitcointools.main import *
 from _functools import reduce
 
 ### Hex to bin converter and vice versa for objects
